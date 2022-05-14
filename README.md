@@ -1,4 +1,9 @@
+# Me
+
+<img src="hat.jpg" alt="hat" style="zoom:30%;" />
+
 ### who am I
+
 - 👋 Hi, I’m @DDDog-WANG
 - 👀 I am from China, Shenyang.
 - 🌱 I came to Japan from 2016, and live in Tokyo until now.
@@ -40,5 +45,4 @@ You can click the Preview link to take a look at your changes.
   * https://github.com/DDDog-WANG/AutoLabRobtics.git
 
   
-
 
