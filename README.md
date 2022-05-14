@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @DDDog-WANG
 - 👀 I am from China, Shenyang.
 - 🌱 I came to Japan from 2016, and live in Tokyo until now.
-- 💞️ I am interested in singing, computer games, anime, basketball, badminton, traveling and so on.
+- 💞️ I am interested in singing, computer games, anime, basketball, badminton, traveling.
 - 📫 How to reach me: superalpacaaa@icloud.com
 
 <!---
