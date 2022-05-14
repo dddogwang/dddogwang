@@ -13,15 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 ### Educational background
 
-* 2017.4　東京工業大学　環境社会理工学院　融合理工学科　入学
-* 2021.3　東京工業大学　環境社会理工学院　融合理工学科　卒業
-* 2021.4　東京大学　新領域創成科学研究科　メディカル情報生命専攻　入学
-* 2023.4　東京大学　新領域創成科学研究科　メディカル情報生命専攻　卒業見込
+* 2017.4 ~ 2021.3 🏫東京工業大学　環境社会理工学院　融合理工学科　学部
+* 2021.4 ~ 2023.3 🎓東京大学　新領域創成科学研究科　メディカル情報生命専攻　大学院生
+* 2023.4 ~        🎓東京大学　新領域創成科学研究科　メディカル情報生命専攻　博士
 
 
 ### research 
 
-* I am interested in machine learning, especially computer vision.
+* I am interested in machine learning, and computer vision.
 
 * For undergraduate research, I make image classification model for biological tissue image based on bag of visual words (BoVW). If you input an tissue image, you will get the tissue's name and some similar tissue images that may be useful for doctor to find the similar treatments of some tissues disease. The originality of my research is a new methods to express image, and also get better result than the methods used before.
 
