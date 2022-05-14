@@ -1,7 +1,3 @@
-# Me
-
-<img src="hat.jpg" alt="hat" style="zoom:30%;" />
-
 ### who am I
 
 - 👋 Hi, I’m @DDDog-WANG
