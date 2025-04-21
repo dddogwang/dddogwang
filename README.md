@@ -3,14 +3,16 @@
 - 👋 Hi, I’m @dddogwang
 - 👀 I am from China, Shenyang.
 - 🌱 I came to Japan from 2016, and live in Tokyo until now.
-- 💞️ I am interested in singing, computer games, anime, basketball, badminton, traveling.
-- 📫 How to reach me: superalpacaaa@icloud.com
-- 🖼 Homesite: https://dddogwang.github.io/
+- ❤️‍🔥 I am interested in singing, computer games, anime, basketball, badminton, traveling.
+- 📮 How to reach me: [Linkedin](https://www.linkedin.com/in/dddogwang/)
+- 🎁 Personal HP: https://dddogwang.github.io/
+- 🎁 StartUp HP: https://withuai.com/
 
-<!---
-DDDog-WANG/DDDog-WANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Startup Development
+
+**2024-07 ~ 2025**: [*App Development for Children with Disabilities*](https://withuai.com/)
+
+Developing an AI-powered application that proposes personalized therapeutic plans for children with disabilities. The app allows users to upload daily life videos of the children, which are analyzed by AI to assess developmental levels and recommend optimized therapy plans tailored to each child.
 
 ## Educational background
 
@@ -20,19 +22,21 @@ You can click the Preview link to take a look at your changes.
 
 ## Research 
 
-* I am interested in machine learning, reinforcement learning, computer vision, robot control, AI agent, llm development, etc.
-* For undergraduate research, I make image classification model for biological tissue image based on bag of visual words (BoVW). If you input an tissue image, you will get the tissue's name and some similar tissue images that may be useful for doctor to find the similar treatments of some tissues disease. The originality of my research is a new methods to express image, and also get better result than the methods used before.
+I am interested in machine learning, reinforcement learning, computer vision, robot control, AI agent, llm development, etc.
 
-  * [Improvement of Image Feature Vectors Based on BoVW and Recognition of Medical Images](https://github.com/dddogwang/image_KIMIA.git)
-  * [Qiita blog recommendation service development](https://github.com/dddogwang/Qiita_recommend.git)
-* For master research, by using the high-speed super-resolution microscope “Yokogawa CSU-W1 SoRa,” we developed a novel epigenome analysis method that integrates new imaging and sequencing data. This approach enables the analysis of epigenetic markers within the cell nucleus, such as histone modifications and transcription factor localization, through machine learning models, allowing for the identification of cell states and biomarkers.
+For undergraduate research, I make image classification model for biological tissue image based on bag of visual words (BoVW). If you input an tissue image, you will get the tissue's name and some similar tissue images that may be useful for doctor to find the similar treatments of some tissues disease. The originality of my research is a new methods to express image, and also get better result than the methods used before.
 
-  * [Image-based epigenetic profiling combining machine learning and high-speed super-resolution microscopy](https://github.com/dddogwang/disease_epigenome)
-* For Doctor project, we are aiming to achieve full laboratory automation using the highly versatile humanoid experimental robot “Maholo.” By constructing a digital twin environment for AI training, Maholo is capable of learning a wide range of experimental procedures autonomously. The learned operations can then be successfully transferred to the physical robot for real-world execution.
+* [Qiita blog recommendation system service development](https://github.com/dddogwang/Qiita_recommend.git)
+* [Improvement of Image Feature Vectors Based on BoVW and Recognition of Medical Images](https://github.com/dddogwang/image_KIMIA.git)
 
-  * [Image-based epigenetic profiling combining machine learning and high-speed super-resolution microscopy](https://github.com/dddogwang/disease_epigenome)
-  * [Development of AI-Driven Digital Twins for Motion Control Learning in Laboratory Automation](https://github.com/dddogwang/AutoMaholo_displayonly)
-  
+For master research, by using the high-speed super-resolution microscope “Yokogawa CSU-W1 SoRa,” we developed a novel epigenome analysis method that integrates new imaging and sequencing data. This approach enables the analysis of epigenetic markers within the cell nucleus, such as histone modifications and transcription factor localization, through machine learning models, allowing for the identification of cell states and biomarkers.
+
+* [Image-based epigenetic profiling combining machine learning and high-speed super-resolution microscopy](https://github.com/dddogwang/disease_epigenome)
+
+For Doctor project, we are aiming to achieve full laboratory automation using the highly versatile humanoid experimental robot “Maholo.” By constructing a digital twin environment for AI training, Maholo is capable of learning a wide range of experimental procedures autonomously. The learned operations can then be successfully transferred to the physical robot for real-world execution.
+
+* [Image-based epigenetic profiling combining machine learning and high-speed super-resolution microscopy](https://github.com/dddogwang/disease_epigenome)
+* [Development of AI-Driven Digital Twins for Motion Control Learning in Laboratory Automation](https://github.com/dddogwang/AutoMaholo_displayonly)
 
 ## Conference Presentations
 
@@ -63,9 +67,3 @@ You can click the Preview link to take a look at your changes.
 - **2024-10 ~ 2024-12**: *AI Medical Service Inc. – AI R&D*
 
   Worked on medical image recognition for disease diagnosis using images captured by endoscopes and other medical devices. Focused on improving classification model accuracy and uncovering relationships between different diseases.
-
-## Startup Development
-
-- **2024-07 ~ 2025**: [*App Development for Children with Disabilities*](https://github.com/dddogwang/WithU_AI_display)
-
-  Developing an AI-powered application that proposes personalized therapeutic plans for children with disabilities. The app allows users to upload daily life videos of the children, which are analyzed by AI to assess developmental levels and recommend optimized therapy plans tailored to each child.
