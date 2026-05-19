@@ -70,7 +70,7 @@ For Doctor project, we are aiming to achieve full laboratory automation using th
 
 ## Career
 
-- **2026-4 ~**: *AI Medical Service Inc. – AI/ML Engineer *
+- **2026-4 ~ now**: *AI Medical Service Inc. – AI/ML Engineer*
 
   Worked as Data Scientist in LineYahoo Corp.
 
