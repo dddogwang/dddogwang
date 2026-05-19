@@ -16,7 +16,7 @@ Developing an AI-powered application that proposes personalized therapeutic plan
 
 ## Educational background
 
-* 2017.4 ~ 2021.3 🏫東京工業大学　環境社会理工学院　融合理工学科　学部
+* 2017.4 ~ 2021.3 🏫東京工業大学　情報理工学院　情報工学科　学部
 * 2021.4 ~ 2023.3 🎓東京大学　新領域創成科学研究科　メディカル情報生命専攻　大学院生
 * 2023.4 ~ 2026.3 🎓東京大学　新領域創成科学研究科　メディカル情報生命専攻　博士
 
@@ -67,3 +67,8 @@ For Doctor project, we are aiming to achieve full laboratory automation using th
 - **2024-10 ~ 2024-12**: *AI Medical Service Inc. – AI R&D*
 
   Worked on medical image recognition for disease diagnosis using images captured by endoscopes and other medical devices. Focused on improving classification model accuracy and uncovering relationships between different diseases.
+
+- **2026-4 ~ **: *AI Medical Service Inc. – AI/ML Engineer *
+
+  Worked as Data Scientist in LineYahoo Corp.
+
