@@ -68,7 +68,9 @@ For Doctor project, we are aiming to achieve full laboratory automation using th
 
   Worked on medical image recognition for disease diagnosis using images captured by endoscopes and other medical devices. Focused on improving classification model accuracy and uncovering relationships between different diseases.
 
-- **2026-4 ~ **: *AI Medical Service Inc. – AI/ML Engineer *
+## Career
+
+- **2026-4 ~**: *AI Medical Service Inc. – AI/ML Engineer *
 
   Worked as Data Scientist in LineYahoo Corp.
 
