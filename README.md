@@ -10,9 +10,9 @@
 
 ## Educational background
 
-* 2017.4 ~ 2021.3 東京科学大学  情報理工学院　学士
-* 2021.4 ~ 2023.3 東京大学   　情報生命専攻　修士
-* 2023.4 ~ 2026.3 東京大学　   情報生命専攻　博士
+* Mar. 2026: Ph.D., The University of Tokyo
+* Mar. 2023: Master's Degree, The University of Tokyo
+* Mar. 2021: Bachelor's Degree, Institute of Science Tokyo
 
 ## Career
 
