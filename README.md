@@ -16,21 +16,7 @@
 
 ## Research 
 
-I am interested in machine learning, reinforcement learning, computer vision, robot control, AI agent, llm development, etc.
-
-For undergraduate research, I make image classification model for biological tissue image based on bag of visual words (BoVW). If you input an tissue image, you will get the tissue's name and some similar tissue images that may be useful for doctor to find the similar treatments of some tissues disease. The originality of my research is a new methods to express image, and also get better result than the methods used before.
-
-* [Qiita blog recommendation system service development](https://github.com/dddogwang/Qiita_recommend.git)
-* [Improvement of Image Feature Vectors Based on BoVW and Recognition of Medical Images](https://github.com/dddogwang/image_KIMIA.git)
-
-For master research, by using the high-speed super-resolution microscope “Yokogawa CSU-W1 SoRa,” we developed a novel epigenome analysis method that integrates new imaging and sequencing data. This approach enables the analysis of epigenetic markers within the cell nucleus, such as histone modifications and transcription factor localization, through machine learning models, allowing for the identification of cell states and biomarkers.
-
-* [Image-based epigenetic profiling combining machine learning and high-speed super-resolution microscopy](https://github.com/dddogwang/disease_epigenome)
-
-For Doctor project, we are aiming to achieve full laboratory automation using the highly versatile humanoid experimental robot “Maholo.” By constructing a digital twin environment for AI training, Maholo is capable of learning a wide range of experimental procedures autonomously. The learned operations can then be successfully transferred to the physical robot for real-world execution.
-
-* [Image-based epigenetic profiling combining machine learning and high-speed super-resolution microscopy](https://github.com/dddogwang/disease_epigenome)
-* [Development of AI-Driven Digital Twins for Motion Control Learning in Laboratory Automation](https://github.com/dddogwang/AutoMaholo_displayonly)
+I am interested in machine learning, reinforcement learning, computer vision, robot control, AI agent, etc.
 
 ## Conference Presentations
 
@@ -49,10 +35,6 @@ For Doctor project, we are aiming to achieve full laboratory automation using th
 - **2023-05 ~ 2024-03**: *National Institute of Advanced Industrial Science and Technology (AIST) – Research Assistant*
 
   Engaged in research related to laboratory automation, contributing to the development of projects involving robot motion control and reinforcement learning.
-
-- **2024-02 ~ 2024-06**: *InfoDeliver Inc. – Technology Developer*
-
-  Developed AI agents capable of autonomously operating applications and browsers. Built on traditional RPA (Robotic Process Automation) by integrating LLMs (Large Language Models) and VLMs (Vision-Language Models) to create flexible agents adaptable to various UI/UX environments.
 
 - **2024-08 ~ 2024-09**: *DeNA Co., Ltd. – AI Specialist Summer Intern*
 
