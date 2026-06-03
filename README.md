@@ -5,14 +5,8 @@
 - 🌱 I came to Japan from 2016, and live in Tokyo until now.
 - ❤️‍🔥 I am interested in singing, computer games, anime, basketball, badminton, traveling.
 - 📮 How to reach me: [Linkedin](https://www.linkedin.com/in/dddogwang/)
-- 🎁 Personal HP: https://dddogwang.github.io/
-- 🎁 StartUp HP: https://withuai.com/
+- 🎁 Personal HP: https://dddogwang.com
 
-## Startup Development
-
-**2024-07 ~ 2025**: [*App Development for Children with Disabilities*](https://withuai.com/)
-
-Developing an AI-powered application that proposes personalized therapeutic plans for children with disabilities. The app allows users to upload daily life videos of the children, which are analyzed by AI to assess developmental levels and recommend optimized therapy plans tailored to each child.
 
 ## Educational background
 
